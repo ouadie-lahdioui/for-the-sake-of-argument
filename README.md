@@ -13,6 +13,6 @@ numbers(1, "a", 3); // false
 numbers(1, 3, NaN); // true
 ```
 
-**Solution :** [numbers.js](https://github.com/ouadie-lahdioui/for-the-sake-of-argument/numbers.js)
+**Solution :** [numbers.js](https://github.com/ouadie-lahdioui/for-the-sake-of-argument/blob/master/numbers.js)
 
 **Source :** [codewars](http://www.codewars.com/kata/5258b272e6925db09900386a)

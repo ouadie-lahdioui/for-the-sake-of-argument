@@ -1,0 +1,23 @@
+{
+  "name": "for-the-sake-of-argument",
+  "version": "1.0.0",
+  "description": "Javascript kata to return true if all the function parameters are of the Number type",
+  "main": "numbers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouadie-lahdioui/for-the-sake-of-argument.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "kata"
+  ],
+  "author": "Ouadie Lahdioui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ouadie-lahdioui/for-the-sake-of-argument/issues"
+  },
+  "homepage": "https://github.com/ouadie-lahdioui/for-the-sake-of-argument#readme"
+}
